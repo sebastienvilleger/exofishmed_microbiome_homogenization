@@ -1,0 +1,13 @@
+"species","rank","num_signif","avg_p","avg_f"
+"Siganus_luridus","all_scfa",0,0.4885,0.7925
+"Siganus_luridus","C1",0,0.37,0.8955
+"Siganus_luridus","C2",1,0.194,5.3075
+"Siganus_luridus","C3",1,0.1595,3.8515
+"Siganus_luridus","C4",0,0.4595,0.567
+"Siganus_luridus","C5",0,0.9035,0.021
+"Siganus_rivulatus","all_scfa",2,0,26.577
+"Siganus_rivulatus","C1",2,0,20.5165
+"Siganus_rivulatus","C2",2,0,30.1845
+"Siganus_rivulatus","C3",2,0,18.646
+"Siganus_rivulatus","C4",2,0,18.0675
+"Siganus_rivulatus","C5",2,5e-04,12.788

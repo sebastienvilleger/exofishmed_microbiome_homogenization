@@ -1,0 +1,11 @@
+"Species","Region","Season","avg_p","avg_f","mean_r","num_sign"
+"Siganus_luridus","North_Red_Sea","Autumn",0.510666666666667,0.890666666666667,0.0911666666666667,0
+"Siganus_luridus","North_Red_Sea","Spring",0.509166666666667,0.890666666666667,0.0911666666666667,0
+"Siganus_luridus","Northern_Crete","Autumn",0.369166666666667,1.16291666666667,0.1065,0
+"Siganus_luridus","Northern_Crete","Spring",0.361,1.16291666666667,0.1065,0
+"Siganus_rivulatus","Levantine_Sea","Autumn",0.349,1.35483333333333,0.0341666666666667,0
+"Siganus_rivulatus","Levantine_Sea","Spring",0.353916666666667,1.35483333333333,0.0341666666666667,0
+"Siganus_rivulatus","North_Red_Sea","Autumn",0.31775,1.18083333333333,0.0354166666666667,0
+"Siganus_rivulatus","North_Red_Sea","Spring",0.33275,1.18083333333333,0.0354166666666667,0
+"Siganus_rivulatus","Northern_Crete","Autumn",0.219916666666667,1.523,0.0594166666666667,0
+"Siganus_rivulatus","Northern_Crete","Spring",0.228333333333333,1.523,0.0594166666666667,0
